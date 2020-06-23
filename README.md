@@ -30,11 +30,11 @@ This autopilot bot determines it's current location using GPS. Magnetometer is u
 
 ## Block Diagram
 
-![block](images/block diagram.png)
+![block](https://github.com/rohitrnath/Autopilot-System/blob/master/images/block%20diagram.png)
 
 ## Circuit Diagram
 
-![circuit](images/Circuit Design.png)
+![circuit](https://github.com/rohitrnath/Autopilot-System/blob/master/images/Circuit%20Design.png)
 
 ### Componets used
 
